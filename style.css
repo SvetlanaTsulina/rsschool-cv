@@ -5,3 +5,7 @@ h1.dancing-script{
   font-style: normal;
 
 }
+
+body{
+  background-image: linear-gradient(to bottom right, rgb(237, 226, 149), rgb(226, 194, 242)) ;
+}
