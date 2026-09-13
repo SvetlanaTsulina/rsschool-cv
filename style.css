@@ -1,0 +1,9 @@
+h1,h2{
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+body{
+  background-image: linear-gradient(to bottom left, #B1CED8, #B1BAD8, #BBB1D8);
+}
